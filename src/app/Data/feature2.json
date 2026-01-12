@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/images/icon/04.svg",
+    "title": "Otomatisasi Laporan",
+    "desc": "Laporan absensi dan cuti dibuat secara otomatis dan dapat diekspor kapan saja.",
+    "addclass": "feature-provide-box-items style-2"
+  },
+  {
+    "img": "/assets/images/icon/05.svg",
+    "title": "Database Karyawan",
+    "desc": "Simpan data karyawan dengan aman dan mudah diakses dari mana saja.",
+    "addclass": "feature-provide-box-items"
+  },
+  {
+    "img": "/assets/images/icon/06.svg",
+    "title": "Manajemen Shift",
+    "desc": "Atur pergantian shift kerja tim Anda dengan fitur penjadwalan yang intuitif.",
+    "addclass": "feature-provide-box-items style-2"
+  }
+]

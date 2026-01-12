@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/assets/images/team/teamThumb1_1.jpg",
+    "logo": "/assets/images/testimoial/logo.png",
+    "subTitle": "HR Manager",
+    "title": "Budi Santoso",
+    "desc": "Sejak menggunakan Disiplinku, proses rekap absensi karyawan yang tadinya memakan waktu berhari-hari kini selesai dalam hitungan menit. Sangat membantu produktivitas tim HR kami."
+  },
+  {
+    "img": "/assets/images/team/teamThumb1_2.jpg",
+    "logo": "/assets/images/testimoial/logo.png",
+    "subTitle": "CEO Tech Startup",
+    "title": "Siti Aminah",
+    "desc": "Fitur GPS dan selfie-nya sangat akurat. Saya bisa memantau kehadiran karyawan lapangan dengan mudah tanpa rasa khawatir. Aplikasi yang wajib dimiliki perusahaan modern."
+  },
+  {
+    "img": "/assets/images/team/teamThumb1_3.jpg",
+    "logo": "/assets/images/testimoial/logo.png",
+    "subTitle": "Direktur Operasional",
+    "title": "Rudi Hartono",
+    "desc": "Disiplinku memberikan solusi lengkap, tidak hanya absensi tapi juga manajemen cuti dan lembur yang terintegrasi. Customer service-nya juga sangat responsif membantu kami."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_1.jpg",
+    "subTitle": "Direktur HR",
+    "title": "Budi Santoso",
+    "desc": "Disiplinku sangat membantu kami dalam mengelola presensi karyawan. Sistem yang mudah digunakan dan fitur lengkap membuat pekerjaan HR menjadi lebih efisien."  
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_2.jpg",
+    "subTitle": "Manager Operasional",
+    "title": "Siti Nurhaliza",
+    "desc": "Sebagai perusahaan dengan banyak karyawan, Disiplinku memberikan solusi yang tepat untuk manajemen SDM kami. Laporan real-time sangat membantu dalam pengambilan keputusan."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_3.jpg",
+    "subTitle": "CEO",
+    "title": "Ahmad Yani",
+    "desc": "Aplikasi mobile yang user-friendly membuat karyawan kami mudah beradaptasi. Pelayanan customer support juga sangat responsif dan membantu."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_1.jpg",
+    "subTitle": "HR Manager",
+    "title": "Dewi Sartika",
+    "desc": "Fitur kustomisasi aturan sangat fleksibel sesuai kebutuhan perusahaan. Kami bisa mengatur jam kerja, shift, dan kebijakan lembur dengan mudah." 
+  }, 
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_2.jpg",
+    "subTitle": "Finance Manager",
+    "title": "Rudi Hartono",
+    "desc": "Integrasi dengan sistem payroll kami berjalan lancar. Proses penggajian menjadi lebih cepat dan akurat berkat data presensi yang real-time."
+  },
+  {
+    "img": "/assets/images/testimoial/testimonialProfileThumb1_3.jpg",
+    "subTitle": "Operations Director",
+    "title": "Andi Pratama",
+    "desc": "Dashboard analitik yang komprehensif membantu kami melihat tren kehadiran dan produktivitas. Sangat berguna untuk perencanaan SDM."
+  }  
+]

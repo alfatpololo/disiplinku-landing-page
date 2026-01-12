@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "/assets/images/icon/serviceIcon3_1.svg",
+    "title": "Fitur Lengkap",
+    "desc": "Tersedia fitur absensi, cuti, lembur, hingga laporan penggajian otomatis dalam satu aplikasi."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_2.svg",
+    "title": "Paket Flexibel",
+    "desc": "Pilihan paket berlangganan yang dapat disesuaikan dengan skala dan budget perusahaan Anda."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_3.svg",
+    "title": "Kustomisasi Aturan",
+    "desc": "Sesuaikan aturan jam kerja, shift, dan kebijakan lembur sesuai kebutuhan perusahaan."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Aplikasi Mobile",
+    "desc": "Memudahkan karyawan melakukan presensi dari mana saja dengan validasi GPS dan foto selfie."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Keamanan Terjamin",
+    "desc": "Data perusahaan Anda tersimpan aman dengan enkripsi tingkat tinggi dan backup berkala."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_6.svg",
+    "title": "Antarmuka Intuitif",
+    "desc": "Desain aplikasi yang user-friendly memudahkan penggunaan tanpa butuh pelatihan rumit."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "number": "01",
+    "title": "Daftar & Konfigurasi",
+    "desc": "Buat akun perusahaan Anda dan atur kebijakan jam kerja serta lokasi kantor."
+  },
+  {
+    "number": "02",
+    "title": "Undang Karyawan",
+    "desc": "Tambahkan data karyawan dan undang mereka untuk mengunduh aplikasi mobile."
+  },
+  {
+    "number": "03",
+    "title": "Karyawan Absen",
+    "desc": "Karyawan melakukan presensi selfie/GPS melalui aplikasi dengan mudah."
+  },
+  {
+    "number": "04",
+    "title": "Pantau Laporan",
+    "desc": "Akses laporan kehadiran dan kinerja secara real-time dari dashboard admin."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {  
+    "title": "01. Bagaimana cara mendaftar akun?",
+    "desc": "Anda dapat mendaftar dengan mengisi formulir di halaman kontak atau langsung melalui website kami. Tim kami akan menghubungi Anda untuk proses aktivasi akun."
+  },
+  {
+    "title": "02. Apakah ada biaya tersembunyi?",
+    "desc": "Tidak ada biaya tersembunyi. Semua biaya telah tertera jelas di halaman pricing. Kami juga menyediakan paket gratis untuk trial 14 hari."
+  },
+  {
+     "title": "03. Bagaimana keamanan data perusahaan?",
+    "desc": "Data perusahaan Anda dilindungi dengan enkripsi tingkat tinggi dan backup berkala. Kami menggunakan server dengan standar keamanan internasional."
+  },
+  {
+    "title": "04. Apakah bisa diintegrasikan dengan sistem lain?",
+   "desc": "Ya, Disiplinku dapat diintegrasikan dengan berbagai sistem payroll, ERP, dan aplikasi bisnis lainnya melalui API yang tersedia."
+  }  
+]
